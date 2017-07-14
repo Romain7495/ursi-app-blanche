@@ -7,7 +7,7 @@ vim back/server/config/config.json
 
 Ouvrir deux terminaux dans ursi-app-blanche
 dans le premier:
-cd back/
+cd back/ \n
 npm install 
 npm run start:dev
 dans le deuxième:
