@@ -15,4 +15,4 @@ cd front/
 npm install  
 ng serve  
 
-Se rendre sur http://localhost:42000  
+Se rendre sur http://localhost:4200   
